@@ -1,7 +1,7 @@
 # Campus Selection Procedure
 Designed and implemented a Graphical User Interface of the Campus Recruitment system  
 This project consists of an Admin Module(Placement officer of the university), Student Module and a Company Module.  
-This Project is implemented in Java using Netbeans as a Workspace, GUI forms are developed in Java Server Pages and oracle 10g is used as a server for Database connectivity
+This Project is implemented in Java using Netbeans as a Workspace, GUI forms are developed in Java Server Pages and MySql 5 is used as a server for Database connectivity
 
 # Modules Description
 
