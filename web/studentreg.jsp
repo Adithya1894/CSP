@@ -1,7 +1,7 @@
 <%-- 
     Document   : studentreg
     Created on : 11 Jun, 2015, 1:35:09 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

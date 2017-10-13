@@ -1,7 +1,7 @@
 <%-- 
     Document   : about us
     Created on : 20 Jun, 2015, 6:04:28 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampuds
 --%>
 <%@include file="homepage.jsp"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

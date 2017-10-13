@@ -1,7 +1,7 @@
 <%--7 
     Document   : delete citizen card
     Created on : May 11, 2014, 7:53:07 PM
-    Author     : Chinni
+    Author     : Adithya Morampudi
 --%>
 <%@include file="connectcsp.jsp" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

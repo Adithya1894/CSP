@@ -1,7 +1,7 @@
 <%-- 
     Document   : logindb.jsp
     Created on : 15 Jun, 2015, 1:16:58 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 <%@include file="connectcsp.jsp"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

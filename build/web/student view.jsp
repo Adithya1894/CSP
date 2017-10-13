@@ -1,7 +1,7 @@
 <%-- 
     Document   : student view
     Created on : 12 Jun, 2015, 1:14:21 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 <%@include file="connectcsp.jsp" %>
 

@@ -1,7 +1,7 @@
 <%-- 
     Document   : loginpage
     Created on : 11 Jun, 2015, 1:13:43 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

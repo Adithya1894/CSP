@@ -1,7 +1,7 @@
 <%-- 
     Document   : comreg
     Created on : 11 Jun, 2015, 3:14:42 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

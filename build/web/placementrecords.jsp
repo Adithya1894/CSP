@@ -1,7 +1,7 @@
 <%-- 
     Document   : placementrecords
     Created on : 20 Jun, 2015, 8:30:27 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

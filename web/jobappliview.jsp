@@ -1,7 +1,7 @@
 <%-- 
     Document   : jobappliview
     Created on : 12 Jun, 2015, 1:51:16 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 <%@ include file="connectcsp.jsp"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

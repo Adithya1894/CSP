@@ -1,7 +1,7 @@
 <%-- 
     Document   : generatestatusdb
     Created on : 22 Jun, 2015, 2:00:48 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 <%@include file="connectcsp.jsp" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,7 +1,7 @@
 <%-- 
     Document   : connect
     Created on : 26 Feb, 2014, 2:14:51 PM
-    Author     : sharans
+    Author     : Adithya Morampudi
 --%>
 <%@page import="java.io.*" %>
 <%@page import="java.sql.*" %>

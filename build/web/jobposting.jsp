@@ -1,7 +1,7 @@
 <%-- 
     Document   : jobposting
     Created on : 11 Jun, 2015, 2:53:44 PM
-    Author     : PARDHASARADHI REDDY
+    Author     : Adithya Morampudi
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
