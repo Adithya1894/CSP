@@ -1,0 +1,28 @@
+SMAP
+student_0020view_jsp.java
+JSP
+*S JSP
+*F
++ 0 student view.jsp
+student view.jsp
++ 1 connectcsp.jsp
+connectcsp.jsp
++ 2 includepage.jsp
+includepage.jsp
+*L
+5:53
+5#1,12:54
+16:12
+16,2:66
+18,4:69
+21,4:73
+6#0:76
+1#2,23:77
+7#0,38:99
+45,5:138
+49,2:143
+51,19:145,3
+70:202
+71,2:204
+72,7:206
+*E

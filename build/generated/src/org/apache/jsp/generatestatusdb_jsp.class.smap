@@ -1,0 +1,20 @@
+SMAP
+generatestatusdb_jsp.java
+JSP
+*S JSP
+*F
++ 0 generatestatusdb.jsp
+generatestatusdb.jsp
++ 1 connectcsp.jsp
+connectcsp.jsp
+*L
+5:52
+5#1,12:53
+16:12
+16,2:65
+18,4:68
+21,4:72
+6#0,11:75
+17,15:87
+31,4:102
+*E
